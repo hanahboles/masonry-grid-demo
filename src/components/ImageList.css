@@ -1,0 +1,29 @@
+.image-container {
+    column-gap: 20px;
+    columns: 4 200px;
+    margin: 0 50px;
+}
+
+.image-container > .image {
+    margin-bottom: 20px;
+    vertical-align: middle;
+    animation: fadeIn 2s;
+}
+
+@supports (grid-template-rows: masonry) {
+    .image-container {
+        display: grid;
+        gap: 1em;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: masonry;
+    }
+
+    .image-container > .image {
+        margin-bottom: 0;
+    }
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
