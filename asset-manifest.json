@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/masonry-grid-demo/static/css/main.7f6d142c.css",
-    "main.js": "/masonry-grid-demo/static/js/main.ff50798f.js",
+    "main.js": "/masonry-grid-demo/static/js/main.b502e580.js",
     "index.html": "/masonry-grid-demo/index.html",
     "main.7f6d142c.css.map": "/masonry-grid-demo/static/css/main.7f6d142c.css.map",
-    "main.ff50798f.js.map": "/masonry-grid-demo/static/js/main.ff50798f.js.map"
+    "main.b502e580.js.map": "/masonry-grid-demo/static/js/main.b502e580.js.map"
   },
   "entrypoints": [
     "static/css/main.7f6d142c.css",
-    "static/js/main.ff50798f.js"
+    "static/js/main.b502e580.js"
   ]
 }
