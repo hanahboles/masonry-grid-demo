@@ -13,7 +13,7 @@ Note: The default search is Paros - one of my favorite places I've traveled to!
 
 ## Want to see it in action?
 
-Link to [live demo](https://github.com/hanahboles/masonry-grid-demo)
+Link to [live demo](https://hanahboles.github.io/masonry-grid-demo/)
 
 ## Steps to enable the experimental CSS feature
 
