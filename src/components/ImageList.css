@@ -5,9 +5,9 @@
 }
 
 .image-container > .image {
+    animation: fadeIn 2s;
     margin-bottom: 20px;
     vertical-align: middle;
-    animation: fadeIn 2s;
 }
 
 @supports (grid-template-rows: masonry) {
