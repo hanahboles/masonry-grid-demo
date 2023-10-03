@@ -14,7 +14,7 @@ function SearchBar({ onSubmit }) {
 
     return (
         <form onSubmit={handleFormSubmit}>
-            <input onChange={handleChange} type="text" className="input" value={searchTerm}/>   
+            <input onChange={handleChange} placeholder="Search for images" type="text" className="input" value={searchTerm}/>   
         </form>
     )
 }
