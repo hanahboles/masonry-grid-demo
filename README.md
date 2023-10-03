@@ -10,6 +10,7 @@ Note: The default search is Paros - one of my favorite places I've traveled to!
 * axios library
 * async / await
 * Intersection observer (coming soon)
+* Animations (coming soon)
 
 ## Want to see it in action?
 
